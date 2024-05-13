@@ -30,12 +30,12 @@ Comparacion de distribución de categorias entre hombres y mujeres entre 40 y 60
 
 ## 💻Requirimientos de implementación
 
-git clone
+<code>git clone
 cd name_dir
 python -m venv env
 .\nombre_del_entorno\Scripts\activate
 pip install -r requierements.txt
-python nombre_archivo.py
+python nombre_archivo.py</code>
 
 ## 📌Estado del proyecto
 
