@@ -28,15 +28,14 @@ Comparacion de distribución de categorias entre hombres y mujeres entre 40 y 60
 
 - Entre los 40 y 60 años, los hombres en su mayoria a diferencia de las mujeres tienden a experimentar más el sobrepeso y la Obesidad tipo II.
 
-## Requirimientos de implementación
+## 💻Requirimientos de implementación
 
 git clone
 cd name_dir
-pip install virtualenv
-virtualenv env
-.\env\Scripts\activate
+python -m venv env
+.\nombre_del_entorno\Scripts\activate
 pip install -r requierements.txt
-python main.py
+python nombre_archivo.py
 
 ## 📌Estado del proyecto
 
