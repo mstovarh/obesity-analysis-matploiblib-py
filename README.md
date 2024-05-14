@@ -34,7 +34,7 @@ Comparacion de distribución de categorias entre hombres y mujeres entre 40 y 60
 cd name_dir
 python -m venv env
 .\nombre_del_entorno\Scripts\activate
-pip install -r requierements.txt
+pip install -r requirements.txt
 python nombre_archivo.py</code>
 
 ## 📌Estado del proyecto
